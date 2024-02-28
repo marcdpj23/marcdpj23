@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcdpj23
+- 👋 Hi, I’m Marc!
 - 👀 I’m interested in becoming a Data Analyst
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects that will help me continue to become a better Data Analyst
